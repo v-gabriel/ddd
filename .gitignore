@@ -8,3 +8,5 @@ src/TESTS
 
 __pycache__/
 /src/models/
+
+.idea
