@@ -1,0 +1,10 @@
+src/TESTS
+
+/DATASETS
+/DATASETS_TEST
+/RESULTS
+
+*.py.txt
+
+__pycache__/
+/src/models/
